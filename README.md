@@ -139,7 +139,7 @@ go get github.com/joho/godotenv
 
 ## 🎥 Demo Video
 
-**[Link to Demo Video]** - Shows complete workflow from setup to execution
+**[Watch Demo Video](https://youtu.be/BiZcCCDPDEE)** - Shows complete workflow from setup to execution
 
 Video includes:
 - Project structure walkthrough
